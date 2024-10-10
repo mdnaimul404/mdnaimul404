@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Naimul.
-(https://scontent.fdac1-2.fna.fbcdn.net/v/t39.30808-1/442492247_122188995932011524_4124044343386562699_n.jpg?stp=c2.16.184.184a_dst-jpg_p200x200&_nc_cat=108&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeE0BquDxaTUusQtfa-mWwaSgA-DGaMjJjuAD4MZoyMmOxl2MKkUVbflo9DBhPYTuJ2SDJo-gDjCTXDRvVmSjJEI&_nc_ohc=3Ps0BGqPWuYQ7kNvgGLhs_U&_nc_ht=scontent.fdac1-2.fna&_nc_gid=AL-Q_KPotIFyXUgeTmt9zmL&oh=00_AYCWlaHXLcjZK-FPTv1Z-Txg4AHzXQJI244Kl9TltrD77g&oe=670E19F9)
+!["CSE Student | Building the Future, One Line at a Time"](https://scontent.fdac1-2.fna.fbcdn.net/v/t39.30808-1/442492247_122188995932011524_4124044343386562699_n.jpg?stp=c2.16.184.184a_dst-jpg_p200x200&_nc_cat=108&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeE0BquDxaTUusQtfa-mWwaSgA-DGaMjJjuAD4MZoyMmOxl2MKkUVbflo9DBhPYTuJ2SDJo-gDjCTXDRvVmSjJEI&_nc_ohc=3Ps0BGqPWuYQ7kNvgGLhs_U&_nc_ht=scontent.fdac1-2.fna&_nc_gid=AL-Q_KPotIFyXUgeTmt9zmL&oh=00_AYCWlaHXLcjZK-FPTv1Z-Txg4AHzXQJI244Kl9TltrD77g&oe=670E19F9)
 ### "CSE Student | Building the Future, One Line at a Time"
-!["CSE Student | Building the Future, One Line at a Time"]
+
 
 Hi, I'm Md. Naimul Islam, a passionate Computer Science and Engineering student. I love exploring new technologies, solving real-world problems through code, and building innovative IT projects with my team. My interests include software development, algorithms, and data structures, and I’m always eager to learn and collaborate on exciting projects. Check out my repositories to see some of the work I've done!
 
