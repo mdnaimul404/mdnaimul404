@@ -11,7 +11,7 @@ Hi, I'm Md. Naimul Islam, a passionate Computer Science and Engineering student.
 Skills: C++, Python, Java, MySQL, Git, GitHub, Proficient in problem-solving and optimization, Object-Oriented Programming (OOP).
 
 - 🔭 I’m currently working on Dual-Axis Solar Tracking System for Maximum Sunlight Capture. 
-- 🌱 I’m currently learning Artificial Intelligence & Machine Learning 
+- 🌱 I’m currently learning Artificial Intelligence & Machine Learning.
 - 💬 Ask me about Dual-Axis Solar Tracking System for Maximum Sunlight Capture. 
 - 📫 How to reach me: www.linkedin.com/in/naimul404 
 
