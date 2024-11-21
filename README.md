@@ -1,4 +1,4 @@
-# 👋 Hi, I’m MD. Naimul Islam
+#                           👋                       Hi, I’m MD. Naimul Islam
 
 ![442492247_122188995932011524_4124044343386562699_n](https://github.com/user-attachments/assets/fae5e924-b911-4e3a-adfb-3d328ef91903)
 
@@ -24,15 +24,19 @@ Others: Basics of AI/ML, Graphics Design (OpenGL)
   
 ## 🌟 Featured Projects: 
 ### 1. A Data-Driven Dual-Axis Solar Tracking System 
-Predicts sun angles using historical data for optimal solar energy capture.
+Predicts sun angles using historical data for optimal solar energy capture.       
 Tech Stack: Arduino UNO, Python, Data Analysis
 
 ### 2. Bank Management System 
-A robust system designed for secure bank operations.
+A robust system designed for secure bank operations.    
 Tech Stack: Java, Object-Oriented Programming
 
 ### 3. Smart Road Management System 
 Python-based system improving traffic flow and monitoring.
+
+### 2. Hotel Management System
+A desktop application to manage hotel operations efficiently.               
+Tech Stack: C#, .NET
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdnaimul404)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naimul404/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdnaimul404/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/naimul_404/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@naimulislam_404)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/naimul404)  
