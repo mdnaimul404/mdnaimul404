@@ -34,7 +34,7 @@ Tech Stack: Java, Object-Oriented Programming
 ### 3. Smart Road Management System 
 Python-based system improving traffic flow and monitoring.
 
-### 2. Hotel Management System
+### 4. Hotel Management System
 A desktop application to manage hotel operations efficiently.               
 Tech Stack: C#, .NET
 
