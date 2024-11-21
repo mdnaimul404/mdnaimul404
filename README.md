@@ -38,6 +38,10 @@ Python-based system improving traffic flow and monitoring.
 A desktop application to manage hotel operations efficiently.               
 Tech Stack: C#, .NET
 
+### 5. Pastry Shop Management System
+Manages daily operations of a pastry shop, including product, order, employee, and customer details with full database integration.
+Tech Stack: SQL, DBMS, Normalization, ER Diagrams, Schema Diagrams, SQL Queries
+
 
 
 # 📫 Get in Touch
